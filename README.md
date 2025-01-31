@@ -15,7 +15,7 @@ Clonar el repositorio:
 
 
 bash
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/emanuelbenitezbaez/Challenge
 
 Navegar al directorio del proyecto:
 
