@@ -13,18 +13,27 @@ Realizar el sorteo de amigos secretos.
 Instalación
 Clonar el repositorio:
 
+
 bash
 git clone https://github.com/tu-usuario/amigo-secreto.git
+
 Navegar al directorio del proyecto:
 
 bash
+
 cd Challenge
+
 Instalar dependencias:
 
+
 bash
+
 npm install
+
 Uso
+
 Agregar nombres de participantes:
+
 
 Acceder a la aplicación y dirigirse a la sección "Agregar Amigo".
 
@@ -40,6 +49,7 @@ Realizar la seleccion:
 
 
 Requisitos
+
 Node.js
 
 npm
