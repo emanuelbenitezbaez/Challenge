@@ -1,6 +1,8 @@
 
 Proyecto "Amigo Secreto"
+
 Descripción
+
 "Amigo Secreto" es una aplicación diseñada para facilitar la organización y el sorteo de amigos secretos. Permite agregar nombres de participantes y realizar el sorteo de forma automática, asegurando que cada persona reciba un amigo secreto.
 
 
